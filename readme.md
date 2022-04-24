@@ -1,1 +1,1 @@
-# Автотесты для сайта http://practice.automationtesting.in/
+# Автотесты для сайта
